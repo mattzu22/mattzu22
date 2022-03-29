@@ -1,5 +1,5 @@
 # Seja bem-vindo(a) ao meu perfil
-## Olá, meu nome é Matheus e sou estudandte de progamção Front-end!
+## Olá, meu nome é Matheus e sou estudandte de progamação Front-end!
 
 <div>
   <a href="https://github.com/mattzu22">
