@@ -4,7 +4,7 @@
   <h2 align="center" style="font-size:35px;">&ensp; <i>Ｓｏｂｒｅ</i> &ensp;</h2>
 
   <img align="right" width="250px" height="250px" src="./images/cyber-punk.png">
-    <h2 align="left" style='font-size:30px;'>Olá, Meu nome é Matheus e sou estudante de desenvolvimento Web - Front-End</h2>
+  <h2 align="left" style='font-size:30px;'>Olá, Meu nome é Matheus e sou estudante de desenvolvimento Web - Front-End</h2>
 
   <ul align="left">
     <li>Desenvolvedor web apaixonado por tecnologia, estudando atualmente desenvolvimento web Front-End. Minha jornada começou há cerca de um ano, quando decidi explorar o vasto mundo da programação. Desde então, descobri minha verdadeira paixão e agora estou comprometido em transformar essa paixão em minha carreira.</li>
