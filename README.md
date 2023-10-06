@@ -1,5 +1,10 @@
 # Seja bem-vindo(a) ao meu perfil
 ## Olá, meu nome é Matheus e sou estudante de progamação Front-end!
+<div>
+  <h2>Olá, Meu nome é Matheus e sou estudante de desenvolvimento Web - Front-End</h2>
+  <p>Sou um desenvolvedor web Focado atualmente em desenvolvimento Fron-End, estou buscando uma oportunidade de mostrar o meu valor </p>
+  
+</div>
 
 <div>
   <a href="https://github.com/mattzu22">
