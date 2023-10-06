@@ -1,10 +1,10 @@
 
 
 <div align="center">
-  <h2 align="center">&ensp; <i>Ｓｏｂｒｅ</i> &ensp;</h2>
+  <h2 align="center" style="font-size:26px;">&ensp; <i>Ｓｏｂｒｅ</i> &ensp;</h2>
 
   <img align="right" width="250px" height="250px" src="./images/cyber-punk.png">
-    <h2 style='font-size:19px;'>Olá, Meu nome é Matheus e sou estudante de desenvolvimento Web - Front-End</h2>
+    <h2 align="left" style='font-size:22px;'>Olá, Meu nome é Matheus e sou estudante de desenvolvimento Web - Front-End</h2>
 
   <ul align="left">
     <li>Desenvolvedor web apaixonado por tecnologia, estudando atualmente desenvolvimento web Front-End. Minha jornada começou há cerca de um ano, quando decidi explorar o vasto mundo da programação. Desde então, descobri minha verdadeira paixão e agora estou comprometido em transformar essa paixão em minha carreira.</li>
@@ -15,7 +15,7 @@
 </div>
 
 
-  <h2 align="center">&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ s</i> &ensp;</h2>
+  <h2 align="center" style="font-size:26px;">&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ s</i> &ensp;</h2>
 
   <img align="left" height="275px" width="275px" alt="" src="./images/avatar.png" />
 
@@ -150,7 +150,9 @@
 
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-
+  <h2 align="center">&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;</h2>
+  <br>
+  <br>
   <div>
   <a href="https://github.com/mattzu22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mattzu22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
