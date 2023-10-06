@@ -1,26 +1,165 @@
-# Seja bem-vindo(a) ao meu perfil
-## Olá, meu nome é Matheus e sou estudante de progamação Front-end!
-<div>
-  <h2>Olá, Meu nome é Matheus e sou estudante de desenvolvimento Web - Front-End</h2>
-  <p>Sou um desenvolvedor web Focado atualmente em desenvolvimento Fron-End, estou buscando uma oportunidade de mostrar o meu valor </p>
-  
+
+
+<div align="center">
+  <h2 align="center">&ensp; <i>Ｓｏｂｒｅ</i> &ensp;</h2>
+
+  <img align="right" width="250px" height="250px" src="./images/cyber-punk.png">
+    <h2 style='font-size:19px;'>Olá, Meu nome é Matheus e sou estudante de desenvolvimento Web - Front-End</h2>
+
+  <ul align="left">
+    <li>Desenvolvedor web apaixonado por tecnologia, estudando atualmente desenvolvimento web Front-End. Minha jornada começou há cerca de um ano, quando decidi explorar o vasto mundo da programação. Desde então, descobri minha verdadeira paixão e agora estou comprometido em transformar essa paixão em minha carreira.</li>
+    <br>
+    <li>Meu objetivo no futuro é me tornar um programador Full-Stack especializado, capaz de desenvolver aplicações complexas e de qualidade.</li>
+  </ul>
+  <br><br><br><br>
 </div>
 
-<div>
+
+  <h2 align="center">&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ s</i> &ensp;</h2>
+
+  <img align="left" height="275px" width="275px" alt="" src="./images/avatar.png" />
+
+  <table align="right" height="200px" width="275px" style="width: 650px; padding: 10px 0px 10px 10px;  list-style:none;">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="40px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>React</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=next" width="40px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>Next</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=typescript" width="40px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>TypeScript</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=javascript" width="40px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>JavaScript</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>Tailwind</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>  
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vite" width="40px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>Vite</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=jest" width="40px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>Jest</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=redux" width="40px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>Redux</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=figma" width="40px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>Figma</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="40px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>HTML5</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+  <tr>  
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="40px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>CSS3</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=styledcomponents" width="40px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>Styled<br>Components</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sass" width="40px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>SASS</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="40px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>Github</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="40px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>Git</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>  
+  </table>
+
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+  <div>
   <a href="https://github.com/mattzu22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mattzu22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattzu22&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+
  
- <br>
- 
- 
- 
+<br><br>
+
 <div> 
   <a href="https://instagram.com/mattzu.22" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheusg3.201168@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
