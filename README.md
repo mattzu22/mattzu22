@@ -92,7 +92,7 @@
     <sub><b><pre>Node.js</pre></b></sub>
   </td>
  <td align="center">
-    <img src="https://img.shields.io/badge/Knex.js-000000?style=for-the-badge&logo=knex&logoColor=white" height="30px" alt="Knex"/><br>
+    <img src="https://img.shields.io/badge/Knex.js-000000?style=for-the-badge&logo=knex&logoColor=white"  width="40px" alt="Knex"/><br>
     <sub><b>Knex</b></sub>
   </td>
   <td align="center">
@@ -100,7 +100,7 @@
     <sub><b><pre>Vitest</pre></b></sub>
   </td>
 <td align="center">
-    <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" height="30px" alt="Zustand"/><br>
+    <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" width="40px" alt="Zustand"/><br>
     <sub><b>Zustand</b></sub>
   </td>
   <td align="center">
@@ -114,7 +114,7 @@
     <sub><b><pre>Prisma</pre></b></sub>
   </td>
  <td align="center">
-    <img src="https://img.shields.io/badge/Zod-2d3748?style=for-the-badge" height="30px" alt="Zod"/><br>
+    <img src="https://img.shields.io/badge/Zod-2d3748?style=for-the-badge" width="40px" alt="Zod"/><br>
     <sub><b>Zod</b></sub>
   </td>
   <td align="center">
@@ -122,17 +122,17 @@
     <sub><b><pre>Redis</pre></b></sub>
   </td>
 <td align="center">
-    <img src="https://img.shields.io/badge/NVM-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30px" alt="NVM"/><br>
+    <img src="https://img.shields.io/badge/NVM-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" width="40px" alt="NVM"/><br>
     <sub><b>NVM</b></sub>
   </td>
   <td align="center">
-    <img src="https://img.shields.io/badge/Radix UI-000000?style=for-the-badge&logo=react&logoColor=white" height="30px" alt="Radix UI"/><br>
+    <img src="https://img.shields.io/badge/Radix UI-000000?style=for-the-badge&logo=react&logoColor=white" width="40px" alt="Radix UI"/><br>
     <sub><b>Radix UI</b></sub>
   </td>
 </tr>
 <tr>
  <td align="center">
-    <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" height="30px" alt="ESLint"/><br>
+    <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" width="40px" alt="ESLint"/><br>
     <sub><b>ESLint</b></sub>
   </td>
   <td align="center">
@@ -144,17 +144,17 @@
     <sub><b><pre>PNPM</pre></b></sub>
   </td>
 <td align="center">
-    <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" height="30px" alt="Fastify"/><br>
+    <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" width="40px" alt="Fastify"/><br>
     <sub><b>Fastify</b></sub>
   </td>
 </tr>
 <tr>
   <td align="center">
-    <img src="https://img.shields.io/badge/CORS-00599C?style=for-the-badge" height="30px" alt="CORS"/><br>
+    <img src="https://img.shields.io/badge/CORS-00599C?style=for-the-badge" width="40px" alt="CORS"/><br>
     <sub><b>CORS</b></sub>
   </td>
  <td align="center">
-    <img src="https://img.shields.io/badge/Swiper.js-6332F6?style=for-the-badge&logo=swiper&logoColor=white" height="30px" alt="Swiper"/><br>
+    <img src="https://img.shields.io/badge/Swiper.js-6332F6?style=for-the-badge&logo=swiper&logoColor=white"width="40px" alt="Swiper"/><br>
     <sub><b>Swiper</b></sub>
   </td>
   <td align="center">
@@ -184,29 +184,29 @@
     <sub><b><pre>Express</pre></b></sub>
   </td>
   <td align="center">
-    <img src="https://img.shields.io/badge/Dotenv-8DD6F9?style=for-the-badge&logo=dotenv&logoColor=black" height="30px" alt="Dotenv"/><br>
+    <img src="https://img.shields.io/badge/Dotenv-8DD6F9?style=for-the-badge&logo=dotenv&logoColor=black" width="40px" alt="Dotenv"/><br>
     <sub><b>Dotenv</b></sub>
   </td>
   <td align="center">
-    <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=flat&logo=tailwindcss&logoColor=white" width="80px" alt="ShadCN icon"/><br>
+    <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=flat&logo=tailwindcss&logoColor=white" width="40px" alt="ShadCN icon"/><br>
     <sub><b><pre>ShadCN/UI</pre></b></sub>
   </td>
 </tr>
     <tr>
   <td align="center">
-    <img src="https://img.shields.io/badge/Postman-F36817?style=flat&logo=postman&logoColor=white" width="80px" alt="Postman icon"/><br>
+    <img src="https://img.shields.io/badge/Postman-F36817?style=flat&logo=postman&logoColor=white" width="40px" alt="Postman icon"/><br>
     <sub><b><pre>Postman</pre></b></sub>
   </td>
   <td align="center">
-    <img src="https://img.shields.io/badge/DBeaver-372923?style=flat&logo=dbeaver&logoColor=white" width="80px" alt="DBeaver icon"/><br>
+    <img src="https://img.shields.io/badge/DBeaver-372923?style=flat&logo=dbeaver&logoColor=white" width="40px" alt="DBeaver icon"/><br>
     <sub><b><pre>DBeaver</pre></b></sub>
   </td>
   <td align="center">
-    <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white" width="80px" alt="Insomnia icon"/><br>
+    <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white" width="40px" alt="Insomnia icon"/><br>
     <sub><b><pre>Insomnia</pre></b></sub>
   </td>
   <td align="center">
-    <img src="https://img.shields.io/badge/WebSockets-333333?style=flat&logo=websocket&logoColor=white" width="80px" alt="WebSockets icon"/><br>
+    <img src="https://img.shields.io/badge/WebSockets-333333?style=flat&logo=websocket&logoColor=white" width="40px" alt="WebSockets icon"/><br>
     <sub><b><pre>WebSockets</pre></b></sub>
   </td>
   <td align="center">
