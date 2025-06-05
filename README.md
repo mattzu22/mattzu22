@@ -173,8 +173,6 @@
       <img src="https://skillicons.dev/icons?i=zod" width="40px" alt=" icon"/><br>
       <sub><b><pre>Zod</pre></b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=redis" width="40px" alt=" icon"/><br>
       <sub><b><pre>Redis</pre></b></sub>
@@ -203,8 +201,6 @@
       <img src="https://skillicons.dev/icons?i=pnpm" width="40px" alt=" icon"/><br>
       <sub><b><pre>PNPM</pre></b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=fastify" width="40px" alt=" icon"/><br>
       <sub><b><pre>Fastify</pre></b></sub>
@@ -233,8 +229,6 @@
       <img src="https://skillicons.dev/icons?i=sqlite" width="40px" alt=" icon"/><br>
       <sub><b><pre>SQLite</pre></b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=postgres" width="40px" alt=" icon"/><br>
       <sub><b><pre>PostgreSQL</pre></b></sub>
