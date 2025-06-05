@@ -145,6 +145,108 @@
         </b>
       </sub>
     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40px" alt=" icon"/><br>
+      <sub><b><pre>Node.js</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=knex" width="40px" alt=" icon"/><br>
+      <sub><b><pre>Knex</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vitest" width="40px" alt=" icon"/><br>
+      <sub><b><pre>Vitest</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=zustand" width="40px" alt=" icon"/><br>
+      <sub><b><pre>Zustand</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40px" alt=" icon"/><br>
+      <sub><b><pre>SQL</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=prisma" width="40px" alt=" icon"/><br>
+      <sub><b><pre>Prisma</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=zod" width="40px" alt=" icon"/><br>
+      <sub><b><pre>Zod</pre></b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=redis" width="40px" alt=" icon"/><br>
+      <sub><b><pre>Redis</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nvm" width="40px" alt=" icon"/><br>
+      <sub><b><pre>NVM</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=radix" width="40px" alt=" icon"/><br>
+      <sub><b><pre>Radix UI</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=eslint" width="40px" alt=" icon"/><br>
+      <sub><b><pre>ESLint</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="40px" alt=" icon"/><br>
+      <sub><b><pre>Next.js</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=npm" width="40px" alt=" icon"/><br>
+      <sub><b><pre>NPM</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=pnpm" width="40px" alt=" icon"/><br>
+      <sub><b><pre>PNPM</pre></b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=fastify" width="40px" alt=" icon"/><br>
+      <sub><b><pre>Fastify</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cors" width="40px" alt=" icon"/><br>
+      <sub><b><pre>CORS</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=swiper" width="40px" alt=" icon"/><br>
+      <sub><b><pre>Swiper</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" width="40px" alt=" icon"/><br>
+      <sub><b><pre>Docker</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/bcrypt-gray?style=flat&logo=bcrypt" width="40px" alt=" icon"/><br>
+      <sub><b><pre>Bcrypt</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/jwt-gray?style=flat&logo=jwt" width="40px" alt=" icon"/><br>
+      <sub><b><pre>JWT</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="40px" alt=" icon"/><br>
+      <sub><b><pre>SQLite</pre></b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40px" alt=" icon"/><br>
+      <sub><b><pre>PostgreSQL</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=express" width="40px" alt=" icon"/><br>
+      <sub><b><pre>Express</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=dotenv" width="40px" alt=" icon"/><br>
+      <sub><b><pre>Dotenv</pre></b></sub>
+    </td>
   </tr>  
   </table>
 
