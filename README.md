@@ -19,7 +19,7 @@
 
   <img align="left" height="275px" width="275px" alt="" src="./images/avatar.png" />
 
-  <table align="right" height="350px" width="275px" style="width: 650px; padding: 10px 0px 10px 10px;  list-style:none;">
+  <table align="right" height="260" width="275px" style="width: 650px; padding: 10px 0px 10px 10px;  list-style:none;">
  <tr>
   <td align="center">
     <img src="https://skillicons.dev/icons?i=react" width="40px" alt=" icon"/><br>
