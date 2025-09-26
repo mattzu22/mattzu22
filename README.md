@@ -4,10 +4,10 @@
   <h2 align="center" style="font-size:35px;">&ensp; <i>Ｓｏｂｒｅ</i> &ensp;</h2>
 
   <img align="right" width="250px" height="250px" src="./images/cyber-punk.png">
-  <h2 align="left" style='font-size:30px;'>Olá, Meu nome é Matheus e sou estudante de desenvolvimento Web - Front-End</h2>
+  <h2 align="left" style='font-size:30px;'>Olá, Meu nome é Matheus e sou estudante de desenvolvimento Web - Full-Stack JS</h2>
 
   <ul align="left">
-    <li>Desenvolvedor web apaixonado por tecnologia, estudando atualmente desenvolvimento web Front-End. Minha jornada começou há cerca de um ano, quando decidi explorar o vasto mundo da programação. Desde então, descobri minha verdadeira paixão e agora estou comprometido em transformar essa paixão em minha carreira.</li>
+    <li>Desenvolvedor Web dedicado à criação de soluções digitais eficazes, atualmente aprofundando-se em desenvolvimento Full-Stack JavaScript. Minha jornada na programação começou há cerca de três anos, onde iniciei a exploração deste vasto campo. Desde então, tenho dedicado meus esforços e agora estou comprometido em desenvolver uma carreira sólida e aplicar meu aprendizado em projetos desafiadores.</li>
     <br>
     <li>Meu objetivo no futuro é me tornar um programador Full-Stack especializado, capaz de desenvolver aplicações complexas e de qualidade.</li>
   </ul>
